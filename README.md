@@ -6,8 +6,14 @@ In India most of the people used to play **Cricket** and myself also addicted  t
 
 ***
 
-# ordered and unordered list of my favorite sport
+# ordered list of my favorite sport
 ## My favorite team is INDIAN Cricket team
  1. Sachin Tendulkar
  2. Rohit Sharma
  3. Virat Kohli
+
+ # unordered list of other teams
+ * Australia
+ * West Indies
+ * South Africa
+ 
