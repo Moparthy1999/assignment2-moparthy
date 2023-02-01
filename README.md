@@ -17,3 +17,4 @@ In India most of the people used to play **Cricket** and myself also addicted  t
  * West Indies
  * South Africa
  
+ These are my educational details [personal info](https://github.com/Moparthy1999/assignment2-moparthy/blob/main/AboutMe.md)
