@@ -2,52 +2,5 @@
 
 This is **Bhargav Krishna Moparthy** I am from **Guntur**. I completed my SSC in Sri Chaitanya school with 9.5CGPA and my intermediate in Sri Chaitanya Junior College with 96.1%. I completed my B.Tech in **V R Siddhartha Engineering College** with 7.70CGPA. I used to play sports in my free time mostly. 
 
-This is my first pic in United States [my Display Picture](https://github.com/Moparthy1999/assignment2-moparthy/blob/main/Bhargav%20pic.jpg)
-
-***
-
-# Creating a table
-
-This table provides detailed information about 5 different countries which are very much interesting and good to travel with friends and family. Here are the top 5 countries that i would recommend to travel in holidays.
-
-| Name | Reason | Days Spend |
-| --- | --- | --- |
-| India | The culture and traditions | Life long |
-| United States | The environment is good | 30 days |
-| England | Different types of museums | 20 days |
-| Sri Lanka | Our oldest tradition would be found there | 30 days |
-| China | To view the beautiful mountains | 10 days  |
-
-***
-
-# Pithy Quotes
-> The best thing about the future is that it comes one day at a time
-> 
->> *Abraham Lincoln*
->
-> Age is an issue of mind over matter. If you don't mind, it doesn't matter
->
->> *Mark Twain*
-
-***
-
-# Code Fencing
-> CSS opacity - background colour
- 
-Inorder to find page visit this link <https://stackoverflow.com/questions/14984395/css-opacity-background-colour>
-
-```
-@function black($opacity) {
-  @return rgba(black, $opacity)
-}
-@function white($opacity) {
-  @return rgba(white, $opacity)
-}
-
-.half-black {
-  background: black(0.5);
-}
-```
-To find my code to view answer visit this link <https://css-tricks.com/snippets/sass/black-white-opacity-mixins/>
-
+This is my first pic in United States ![my Display Picture](https://github.com/Moparthy1999/assignment2-moparthy/blob/main/Bhargav%20pic.jpg)
 
