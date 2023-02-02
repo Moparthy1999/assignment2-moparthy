@@ -43,3 +43,26 @@ This table provides detailed information about 5 different countries which are v
 > Age is an issue of mind over matter. If you don't mind, it doesn't matter
 >
 >> *Mark Twain*
+
+***
+
+# Code Fencing
+> CSS opacity - background colour
+ 
+Inorder to find page visit this link <https://stackoverflow.com/questions/14984395/css-opacity-background-colour>
+
+```
+@function black($opacity) {
+  @return rgba(black, $opacity)
+}
+@function white($opacity) {
+  @return rgba(white, $opacity)
+}
+
+.half-black {
+  background: black(0.5);
+}
+```
+To find my code to view answer visit this link <https://css-tricks.com/snippets/sass/black-white-opacity-mixins/>
+
+
