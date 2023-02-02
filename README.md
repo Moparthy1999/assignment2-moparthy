@@ -32,3 +32,14 @@ This table provides detailed information about 5 different countries which are v
 | England | Different types of museums | 20 days |
 | Sri Lanka | Our oldest tradition would be found there | 30 days |
 | China | To view the beautiful mountains | 10 days  |
+
+***
+
+# Pithy Quotes
+> The best thing about the future is that it comes one day at a time
+> 
+>> *Abraham Lincoln*
+>
+> Age is an issue of mind over matter. If you don't mind, it doesn't matter
+>
+>> *Mark Twain*
